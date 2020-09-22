@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**Takahashi849/Takahashi849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**darunii/darunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takahashi849&count_private=true&show_icons=true&theme=radical" alt="Darunii's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darunii&count_private=true&show_icons=true&theme=radical" alt="Darunii's github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takahashi849&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darunii&layout=compact&theme=radical" />
 </a>
